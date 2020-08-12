@@ -1,7 +1,6 @@
 {
     "logs": [
-        "1. app: Info tab is ready",
-        "2. Show all the libs used",
-        "3. added functions to fab back icons"
+        "1. added dark mode",
+        "2. code cleanup"
     ]
 }
